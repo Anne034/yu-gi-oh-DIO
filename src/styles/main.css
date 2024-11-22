@@ -117,6 +117,7 @@ button, a, img:hover, button:hover,a:hover{
 
 #next-duel{
     display: none;
+    margin: 0 auto; 
 }
 
 .card-box{
